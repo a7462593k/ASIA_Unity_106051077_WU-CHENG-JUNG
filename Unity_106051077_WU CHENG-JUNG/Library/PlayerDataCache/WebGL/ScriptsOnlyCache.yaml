@@ -1,7 +1,6 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - AnimationScript
     - CameraControl
     - Mon
     UnityEditor.TestRunner.dll:
@@ -348,12 +347,6 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAnimator
   - hash:
       serializedVersion: 2
-      Hash: b3b88a83977f0095ee5fd9765e4de1e8
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: AnimationScript
-  - hash:
-      serializedVersion: 2
       Hash: a53651ee3996fbba20dfe0fce02f0b23
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
@@ -601,4 +594,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/106051077.unity
-  playerPath: "C:/Users/\u5433\u627F\u878D/Desktop/ASIA_Unity_106051077_CHENG-JUNG-WU/Web"
+  playerPath: G:/ASIA_Unity_106051077_CHENG-JUNG-WU/Web
